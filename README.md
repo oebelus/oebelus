@@ -3,4 +3,4 @@ I enjoy the entire website development process, as well as training neural netwo
 
 ### Connect with me: 
 
-<a href="https://www.facebook.com/profile.php?id=100055507658768"><img align="left" src="images/facebook.png" alt=”Imane | Facebook” width=”21px”/></a>
+<a href="https://www.facebook.com/profile.php?id=100055507658768"><img align="left" src="https://github.com/oebelus/oebelus/blob/ddc1ec37a37606101fa923648b725287fcffb9d7/images/facebook.png" alt=”Imane | Facebook” width=”21px”/></a>
