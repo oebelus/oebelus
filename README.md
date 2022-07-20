@@ -9,10 +9,9 @@ I enjoy the entire website development process, as well as training neural netwo
 
 ### Languages and tools: 
 
-<img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width = "22" height = "22"/></a>
-<img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width = "22" height = "22"/></a>
+<a href = "https://en.wikipedia.org/wiki/HTML5" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width = "22" height = "22"/></a>
 
-
+<a href = "https://en.wikipedia.org/wiki/CSS" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/css/css-original-wordmark.svg" width = "22" height = "22"/></a>
 
 
 
