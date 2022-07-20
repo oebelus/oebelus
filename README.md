@@ -15,7 +15,7 @@ I enjoy the entire website development process, as well as training neural netwo
 
 <a href = "https://en.wikipedia.org/wiki/JavaScript" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width = "22" height = "22"/></a>
 
-<a href = "https://en.wikipedia.org/wiki/Python_(programming_language)" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width = "22" height = "22"/></a>
+<a href = "https://en.wikipedia.org/wiki/Python_(programming_language)" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = "22" height = "22"/></a>
 
 <a href = "https://en.wikipedia.org/wiki/NumPy" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width = "22" height = "22"/></a>
 
