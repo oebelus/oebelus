@@ -31,9 +31,9 @@ I enjoy the entire website development process, as well as training neural netwo
 
 <a href = "https://en.wikipedia.org/wiki/Project_Jupyter" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width = "22" height = "22"/></a>
 
-<a href = "https://en.wikipedia.org/wiki/Adobe_Photoshop" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop.svg" width = "22" height = "22"/></a>
+<a href = "https://en.wikipedia.org/wiki/Adobe_Photoshop" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width = "22" height = "22"/></a>
 
-<a href = "https://en.wikipedia.org/wiki/Adobe_Illustrator" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator.svg" width = "22" height = "22"/></a>
+<a href = "https://en.wikipedia.org/wiki/Adobe_Illustrator" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width = "22" height = "22"/></a>
 
 ### Connect with me: 
 
