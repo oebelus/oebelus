@@ -35,7 +35,7 @@ I enjoy the entire website development process, as well as training neural netwo
 
 <a href = "https://en.wikipedia.org/wiki/Adobe_Illustrator" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width = "22" height = "22"/></a>
 
-### Connect with me: 
+### Connect with me: <br/>
 
 <a href = "https://www.facebook.com/profile.php?id=100055507658768" target = "blank"><img align = "left" src = "https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Facebook.png" width = "22" height = "22"/></a>
 
