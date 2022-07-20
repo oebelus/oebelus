@@ -21,7 +21,7 @@ I enjoy the entire website development process, as well as training neural netwo
 
 <a href = "https://en.wikipedia.org/wiki/Pandas_(software)" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width = "22" height = "22"/></a>
 
-<a href = "https://en.wikipedia.org/wiki/TensorFlow" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line.svg" width = "22" height = "22"/></a>
+<a href = "https://en.wikipedia.org/wiki/TensorFlow-original" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line.svg" width = "22" height = "22"/></a>
 
 <a href = "https://en.wikipedia.org/wiki/Git" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width = "22" height = "22"/></a>
 
