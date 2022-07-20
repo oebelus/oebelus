@@ -25,7 +25,7 @@ I enjoy the entire website development process, as well as training neural netwo
 
 <a href = "https://en.wikipedia.org/wiki/Git" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width = "22" height = "22"/></a>
 
-<a href = "https://github.com/" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width = "22" height = "22"/></a>
+<a href = "https://github.com/" target = "blank"><img align = "left" src = "https://github.com/oebelus/oebelus/blob/main/images/github.png" width = "22" height = "22"/></a>
 
 <a href = "https://en.wikipedia.org/wiki/Visual_Studio_Code" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width = "22" height = "22"/></a>
 
