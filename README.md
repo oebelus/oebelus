@@ -16,6 +16,10 @@ I enjoy the entire website development process, as well as training neural netwo
 
 <a href = "#" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width = "22" height = "22"/></a>
 
+<a href = "#" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width = "22" height = "22"/></a>
+
+<a href = "#" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width = "22" height = "22"/></a>
+
 <a href = "https://en.wikipedia.org/wiki/Python_(programming_language)" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = "22" height = "22"/></a>
 
 <a href = "https://en.wikipedia.org/wiki/NumPy" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width = "22" height = "22"/></a>
@@ -29,6 +33,8 @@ I enjoy the entire website development process, as well as training neural netwo
 <a href = "https://github.com/" target = "blank"><img align = "left" src = "https://github.com/oebelus/oebelus/blob/main/images/github.png" width = "22" height = "22"/></a>
 
 <a href = "https://en.wikipedia.org/wiki/Visual_Studio_Code" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width = "22" height = "22"/></a>
+
+<a href = "#" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width = "22" height = "22"/></a>
 
 <a href = "https://en.wikipedia.org/wiki/Project_Jupyter" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width = "22" height = "22"/></a>
 
