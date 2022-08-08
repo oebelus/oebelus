@@ -5,7 +5,6 @@ I enjoy the entire website development process, as well as training neural netwo
 - Web Development 🕷️
 - Machine Learning 🤖
 - Data Structures and Algorithms 💻
-- Graphic Design 🎀
 
 ### Languages and tools: 
 
@@ -14,6 +13,8 @@ I enjoy the entire website development process, as well as training neural netwo
 <a href = "https://en.wikipedia.org/wiki/CSS" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width = "22" height = "22"/></a>
 
 <a href = "https://en.wikipedia.org/wiki/JavaScript" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width = "22" height = "22"/></a>
+
+<a href = "#" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width = "22" height = "22"/></a>
 
 <a href = "https://en.wikipedia.org/wiki/Python_(programming_language)" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = "22" height = "22"/></a>
 
