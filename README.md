@@ -11,6 +11,8 @@ I enjoy the entire website development process, as well as training neural netwo
 
 <a href = "https://en.wikipedia.org/wiki/CSS" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width = "22" height = "22"/></a>
 
+<a href = "#" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" width = "22" height = "22"/></a>
+
 <a href = "https://en.wikipedia.org/wiki/JavaScript" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width = "22" height = "22"/></a>
 
 <a href = "#" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width = "22" height = "22"/></a>
