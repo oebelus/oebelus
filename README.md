@@ -47,13 +47,3 @@ I enjoy the entire website development process, as well as training neural netwo
 
 <br/>
 
-### Connect with me: 
-
-<a href = "#" target = "blank"><img align = "left" src = "https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Facebook.png" width = "22" height = "22"/></a>
-
-<a href = "#" target = "blank"><img align = "left" src = "https://github.com/oebelus/oebelus/blob/main/images/instagram%20-%20color.png" width = "22" height = "22"/></a>
-
-<a href = "#" target = "blank"><img align = "left" src = "https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/LinkedIN.png" width = "22" height = "22"/></a>
-
-<a href = "#" target = "blank"><img align = "left" src = "https://github.com/oebelus/oebelus/blob/main/images/kaggle.png" width = "22" height = "22"/></a>
-
