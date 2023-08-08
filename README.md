@@ -1,5 +1,4 @@
-### Learning is my superpower, and I'm still upgrading my cape!
-
+### I'm on a learning spree, turning 'not yet' into 'watch me!'
 ### Languages and tools: 
 
 <a href = "https://en.wikipedia.org/wiki/HTML5" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width = "22" height = "22"/></a>
