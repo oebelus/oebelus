@@ -1,9 +1,4 @@
-# Hi there, I'm Imane! 
-I enjoy the entire website development process, as well as training neural networks 🥴 I relish the challenge of problem-solving and learning new things everyday! 
-
-### I'm currently learning: 
-- Web Development 🕷️
-- Data Structures and Algorithms 💻
+### Learning is my superpower, and I'm still upgrading my cape!
 
 ### Languages and tools: 
 
