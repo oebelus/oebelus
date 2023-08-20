@@ -1,5 +1,7 @@
-### I'm on a learning spree, turning 'not yet' into 'watch me!'
-### Languages and tools: 
+### On a learning spree...
+### Languages and tools:
+
+<a href = "https://en.wikipedia.org/wiki/C_(programming_language)" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width = "22" height = "22"/></a>
 
 <a href = "https://en.wikipedia.org/wiki/HTML5" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width = "22" height = "22"/></a>
 
