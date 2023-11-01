@@ -1,4 +1,4 @@
-### On a learning spree...
+# More like a chronicle of my adventures
 ### Languages and tools:
 
 <a href = "https://en.wikipedia.org/wiki/C_(programming_language)" target = "blank"><img align = "left" src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width = "22" height = "22"/></a>
