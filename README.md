@@ -10,8 +10,8 @@
 - ### Contact me:
      Euh, don't...
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oebelus&show_icons=true&locale=en&layout=compact&bg_color=0D0D0D&title_color=E8AA64&border_color=E8AA64" alt="oebelus" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oebelus&show_icons=true&locale=en&layout=compact&bg_color=0D0D0D&title_color=E8AA64&border_color=E8AA64" alt="oebelus" />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oebelus&show_icons=true&locale=en&bg_color=0D0D0D&title_color=E8AA64&border_color=E8AA64" alt="oebelus" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=oebelus&show_icons=true&locale=en&bg_color=0D0D0D&title_color=E8AA64&border_color=E8AA64" alt="oebelus" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oebelus&theme=dark" alt="oebelus" /></p>
