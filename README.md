@@ -2,7 +2,7 @@
 ### More like a chronicle of my adventures or perhaps a digital vault for my files.
 ![Adventure](http://www.quiteunlikely.net/screencaps/albums/userpics/10001/jtb254.jpg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oebelus&theme=darkhub" alt="oebelus" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oebelus&theme=onedark" alt="oebelus" /></a> </p>
 
 - ### Languages and tools: 
      [ insert a random programming language in a code editor, and some magic ]
