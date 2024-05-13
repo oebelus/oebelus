@@ -14,4 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oebelus&show_icons=true&locale=en&bg_color=0D0D0D&title_color=E8AA64" alt="oebelus" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oebelus&bg_color=000000" alt="oebelus" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oebelus&theme=highcontrast" alt="oebelus" /></p>
