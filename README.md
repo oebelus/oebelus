@@ -11,7 +11,7 @@
      Euh, don't...
 
 <p align="center">
-     <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=oebelus&show_icons=true&locale=en&layout=compact&bg_color=151515&title_color=E8AA64&hide=css,html" alt="oebelus" />
+     <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=oebelus&show_icons=true&locale=en&layout=compact&bg_color=151515&title_color=E8AA64&hide=css" alt="oebelus" />
      <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=oebelus&show_icons=true&locale=en&bg_color=151515&title_color=E8AA64" alt="oebelus" />
 </p>
 
