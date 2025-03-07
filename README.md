@@ -115,8 +115,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
 </div>
-
-###
-
-- Contact me: <br>
-[ don't ... ]
