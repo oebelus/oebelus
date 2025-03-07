@@ -119,6 +119,4 @@
 ###
 
 - Contact me:
-<div align="center">
-     [ don't ... ]
-</div>
+[ don't ... ]
